@@ -1,8 +1,9 @@
-<H1> HR DATA ANALYSIS</H1>
+<H1> 🌟 HR DATA ANALYSIS 🌟</H1>
+<H2> INTRODUCTION </H2>
 HR Data analysis is the first task provided by PSYLIQ during my Internship. This project helped me not only to hone my skills in MS-Excel but also provided the chance to learn and have hands-on experience with PowerBi.
 I was actually more comfortable with tableau, but this project required utilization of powerBi. I was able to quickly learn powerBi skills and implement it in this project.
 
-<H2> METHODS UTILIZED IN THIS PROJECT </H2>
+<H2> CONCEPTS UTILIZATION </H2>
 1. MS-Excel basic exploratory analysis function
 2. Custom Conditional formatting
 3. What-if analysis
